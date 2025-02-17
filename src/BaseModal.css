@@ -1,0 +1,10 @@
+.modal-content {
+  background-color: rgba(0, 214, 18, 0.863);
+  color: white;
+}
+.modal-footer button {
+  background-color: rgba(12, 139, 0, 0.7);
+}
+.modal-footer button:hover {
+  background-color: rgb(8, 92, 0);
+}

@@ -1,0 +1,249 @@
+{
+  "3621": {
+    "previous": [],
+    "next": [3635, 3636, 3651],
+    "name": "Matemática Discreta"
+  },
+  "3622": {
+    "previous": [],
+    "next": [3628, 3633],
+    "name": "Análisis Matemático I"
+  },
+  "3623": { "previous": [], "next": [3629], "name": "Programación Inicial" },
+  "3624": {
+    "previous": [],
+    "next": [3630],
+    "name": "Introducción a los Sistemas de Información"
+  },
+  "3625": { "previous": [], "next": [3631], "name": "Sistemas de Numeración" },
+  "3626": {
+    "previous": [],
+    "next": [3676, 3642],
+    "name": "Principios de Calidad de Software"
+  },
+  "3627": {
+    "previous": [],
+    "next": [3645],
+    "name": "Álgebra y Geometría Analítica I"
+  },
+  "3628": { "previous": [3622], "next": [3634], "name": "Física I" },
+  "3629": {
+    "previous": [3623],
+    "next": [3635, 3636],
+    "name": "Programación Estructurada Básica"
+  },
+  "3630": {
+    "previous": [3624],
+    "next": [3637, 3680],
+    "name": "Introducción a la Gestión de Requisitos"
+  },
+  "3631": {
+    "previous": [3625],
+    "next": [3638],
+    "name": "Fundamentos de Sistemas Embebidos"
+  },
+  "3632": {
+    "previous": [],
+    "next": [3644, 3680],
+    "name": "Introducción a Proyectos Informáticos"
+  },
+  "3633": {
+    "previous": [3622],
+    "next": [3639, 3646],
+    "name": "Análisis Matemático II"
+  },
+  "3634": { "previous": [3628], "next": [3643], "name": "Física II" },
+  "3635": {
+    "previous": [3621, 3629],
+    "next": [3640, 3646, 3650],
+    "name": "Tópicos de Programación"
+  },
+  "3636": {
+    "previous": [3621, 3629],
+    "next": [3641, 3650, 3648],
+    "name": "Bases de Datos"
+  },
+  "3637": {
+    "previous": [3630],
+    "next": [3642, 3659],
+    "name": "Análisis de Sistemas"
+  },
+  "3638": {
+    "previous": [3631],
+    "next": [3643, 3649, 3650],
+    "name": "Arquitectura de Computadoras"
+  },
+  "3639": {
+    "previous": [3633],
+    "next": [3651],
+    "name": "Análisis Matemático III"
+  },
+  "3640": {
+    "previous": [3635],
+    "next": [3646, 3654],
+    "name": "Algoritmos y Estructuras de Datos"
+  },
+  "3641": {
+    "previous": [3636],
+    "next": [3651, 3652],
+    "name": "Bases de Datos Aplicada"
+  },
+  "3642": {
+    "previous": [3637, 3626],
+    "next": [3647, 3648, 3675],
+    "name": "Principios de Diseño de Sistemas"
+  },
+  "3643": {
+    "previous": [3634, 3638],
+    "next": [3650],
+    "name": "Redes de Computadoras"
+  },
+  "3644": {
+    "previous": [3632],
+    "next": [3659],
+    "name": "Gestión de las Organizaciones"
+  },
+  "3645": {
+    "previous": [3627],
+    "next": [3651, 3654],
+    "name": "Álgebra y Geometría Analítica II"
+  },
+  "3646": {
+    "previous": [3640, 3633],
+    "next": [3657, 3658, 3652],
+    "name": "Paradigmas de Programación"
+  },
+  "3647": {
+    "previous": [3642],
+    "next": [3659, 3667],
+    "name": "Requisitos Avanzados"
+  },
+  "3648": {
+    "previous": [3642, 3636],
+    "next": [3653, 3653],
+    "name": "Diseño de Software"
+  },
+  "3649": { "previous": [3638], "next": [3654, 3666] },
+  "3650": {
+    "previous": [3643, 3635, 3638],
+    "next": [3655, 3661],
+    "name": "Seguridad de la Información"
+  },
+  "3651": {
+    "previous": [3645, 3639, 3621],
+    "next": [3656, 3662, 3664],
+    "name": "Probabilidad y Estadística"
+  },
+  "3652": {
+    "previous": [3641, 3646],
+    "next": [3664, 3665],
+    "name": "Programación Avanzada"
+  },
+  "3653": {
+    "previous": [3648],
+    "next": [3659],
+    "name": "Arquitecturas de Sistemas Software"
+  },
+  "3654": {
+    "previous": [3649, 3645, 3640],
+    "next": [3658, 3660],
+    "name": "Virtualización de Hardware"
+  },
+  "3655": { "previous": [3650], "next": [], "name": "Auditoría y Legislación" },
+  "3656": {
+    "previous": [3651, 3641],
+    "next": [],
+    "name": "Estadística Aplicada"
+  },
+  "3657": {
+    "previous": [3646],
+    "next": [3663],
+    "name": "Autómatas y Gramática"
+  },
+  "3658": {
+    "previous": [3654, 3646],
+    "next": [],
+    "name": "Programación Concurrente"
+  },
+  "3659": {
+    "previous": [3653, 3647, 3644],
+    "next": [],
+    "name": "Gestión Aplicada al Desarrollo de Software I"
+  },
+  "3660": {
+    "previous": [3654],
+    "next": [],
+    "name": "Sistemas Operativos Avanzados"
+  },
+  "3661": {
+    "previous": [3651, 3650, 3644],
+    "next": [3669, 3671],
+    "name": "Gestión de Proyectos"
+  },
+  "3662": { "previous": [3651], "next": [], "name": "Matemática Aplicada" },
+  "3663": {
+    "previous": [3657],
+    "next": [],
+    "name": "Lenguajes y Compiladores"
+  },
+  "3664": {
+    "previous": [3651, 3646],
+    "next": [3668, 3670],
+    "name": "Inteligencia Artificial"
+  },
+  "3665": {
+    "previous": [3659, 3652],
+    "next": [],
+    "name": "Gestión Aplicada al Desarrollo de Software II"
+  },
+  "3666": {
+    "previous": [3655, 3652, 3649],
+    "next": [3673],
+    "name": "Seguridad Aplicada y Forensia"
+  },
+  "3667": {
+    "previous": [3647],
+    "next": [3671],
+    "name": "Gestión de la Calidad en Procesos de Sistemas"
+  },
+  "3668": {
+    "previous": [3664, 3656],
+    "next": [],
+    "name": "Inteligencia Artificial Aplicada"
+  },
+  "3669": {
+    "previous": [3661],
+    "next": [],
+    "name": "Innovación y Emprendedorismo"
+  },
+  "3670": { "previous": [3664, 3656], "next": [], "name": "Ciencia de Datos" },
+  "3671": {
+    "previous": [3667, 3661, 3660, 3659, 3656],
+    "next": [],
+    "name": "Proyecto Final de Carrera"
+  },
+  "3672": { "previous": [3658, 3661, 3663], "next": [], "name": "Electiva I" },
+  "3673": { "previous": [3662, 3666], "next": [], "name": "Electiva II" },
+  "3674": { "previous": [3664, 3665], "next": [], "name": "Electiva III" },
+  "3675": {
+    "previous": [3642],
+    "next": [],
+    "name": "Práctica Profesional Supervisada"
+  },
+  "3676": {
+    "previous": [3626],
+    "next": [],
+    "name": "Responsabilidad Social Universitaria"
+  },
+  "3677": {
+    "previous": [],
+    "next": [],
+    "name": "Lenguaje Orientado a Negocios"
+  },
+  "3678": { "previous": [], "next": [], "name": "Tecnologías en Seguridad" },
+  "3679": { "previous": [], "next": [], "name": "isión Artificial" },
+  "3680": {
+    "previous": [3630, 3621, 3623, 3624, 3625, 3626, 3632, 3635, 3636, 3638],
+    "next": []
+  }
+}

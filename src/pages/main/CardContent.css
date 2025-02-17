@@ -1,0 +1,28 @@
+.cardcontent {
+  width: 18rem;
+  background-color: rgba(153, 254, 152, 0.7);
+  padding: 1rem;
+  border-radius: 15px;
+  border: solid 3px rgba(0, 126, 0, 255);
+  margin: 1rem;
+  display: grid;
+  color: white;
+  text-align: center;
+}
+
+.cardcontentlink {
+  background-color: rgba(2, 110, 0, 0.7);
+  border: solid 1px rgba(0, 126, 0, 255);
+}
+
+img {
+  margin: 0 auto 0.7rem auto !important;
+  height: 5rem;
+  width: 5rem !important;
+  border-radius: 1rem !important;
+}
+
+/*
+
+
+rgba(49, 132, 255, 0.7)*/

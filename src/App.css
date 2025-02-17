@@ -1,0 +1,11 @@
+body {
+  background-image: url("./imgs/fondo\ para\ unlam.jpg");
+}
+
+main {
+  padding: 2vw;
+  display: flex;
+  max-width: 100vw;
+  flex-wrap: wrap;
+  justify-content: center;
+}

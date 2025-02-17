@@ -1,0 +1,583 @@
+{
+  "gral": [
+    {
+      "previous": [],
+      "next": [3635, 3636, 3651],
+      "name": "Matemática Discreta",
+      "cod": "3621",
+      "pos": {
+        "x": 6,
+        "y": 1
+      }
+    },
+    {
+      "previous": [],
+      "next": [3628, 3633],
+      "name": "Análisis Matemático I",
+      "cod": "3622",
+      "pos": {
+        "x": 4,
+        "y": 1
+      }
+    },
+    {
+      "previous": [],
+      "next": [3629],
+      "name": "Programación Inicial",
+      "cod": "3623",
+      "pos": {
+        "x": 5,
+        "y": 1
+      }
+    },
+    {
+      "previous": [],
+      "next": [3630],
+      "name": "Introducción a los Sistemas de Información",
+      "cod": "3624",
+      "pos": {
+        "x": 7,
+        "y": 1
+      }
+    },
+    {
+      "previous": [],
+      "next": [3631],
+      "name": "Sistemas de Numeración",
+      "cod": "3625",
+      "pos": {
+        "x": 1,
+        "y": 1
+      }
+    },
+    {
+      "previous": [],
+      "next": [3676, 3642],
+      "name": "Principios de Calidad de Software",
+      "cod": "3626",
+      "pos": {
+        "x": 8,
+        "y": 1
+      }
+    },
+    {
+      "previous": [],
+      "next": [3645],
+      "name": "Álgebra y Geometría Analítica I",
+      "cod": "3627",
+      "pos": {
+        "x": 3,
+        "y": 2
+      }
+    },
+    {
+      "previous": [3622],
+      "next": [3634],
+      "name": "Física I",
+      "cod": "3628",
+      "pos": {
+        "x": 2,
+        "y": 2
+      }
+    },
+    {
+      "previous": [3623],
+      "next": [3635, 3636],
+      "name": "Programación Estructurada Básica",
+      "cod": "3629",
+      "pos": {
+        "x": 5,
+        "y": 2
+      }
+    },
+    {
+      "previous": [3624],
+      "next": [3637, 3680],
+      "name": "Introducción a la Gestión de Requisitos",
+      "cod": "3630",
+      "pos": {
+        "x": 7,
+        "y": 2
+      }
+    },
+    {
+      "previous": [3625],
+      "next": [3638],
+      "name": "Fundamentos de Sistemas Embebidos",
+      "cod": "3631",
+      "pos": {
+        "x": 1,
+        "y": 2
+      }
+    },
+    {
+      "previous": [],
+      "next": [3644, 3680],
+      "name": "Introducción a Proyectos Informáticos",
+      "cod": "3632",
+      "pos": {
+        "x": 9,
+        "y": 2
+      }
+    },
+    {
+      "previous": [3622],
+      "next": [3639, 3646],
+      "name": "Análisis Matemático II",
+      "cod": "3633",
+      "pos": {
+        "x": 4,
+        "y": 3
+      }
+    },
+    {
+      "previous": [3628],
+      "next": [3643],
+      "name": "Física II",
+      "cod": "3634",
+      "pos": {
+        "x": 2,
+        "y": 3
+      }
+    },
+    {
+      "previous": [3621, 3629],
+      "next": [3640, 3650],
+      "name": "Tópicos de Programación",
+      "cod": "3635",
+      "pos": {
+        "x": 5,
+        "y": 3
+      }
+    },
+    {
+      "previous": [3621, 3629],
+      "next": [3641, 3680, 3648],
+      "name": "Bases de Datos",
+      "cod": "3636",
+      "pos": {
+        "x": 6,
+        "y": 3
+      }
+    },
+    {
+      "previous": [3630],
+      "next": [3642],
+      "name": "Análisis de Sistemas",
+      "cod": "3637",
+      "pos": {
+        "x": 7,
+        "y": 3
+      }
+    },
+    {
+      "previous": [3631],
+      "next": [3643, 3649],
+      "name": "Arquitectura de Computadoras",
+      "cod": "3638",
+      "pos": {
+        "x": 1,
+        "y": 3
+      }
+    },
+    {
+      "previous": [3633],
+      "next": [3651],
+      "name": "Análisis Matemático III",
+      "cod": "3639",
+      "pos": {
+        "x": 4,
+        "y": 4
+      }
+    },
+    {
+      "previous": [3635],
+      "next": [3646, 3654],
+      "name": "Algoritmos y Estructuras de Datos",
+      "cod": "3640",
+      "pos": {
+        "x": 5,
+        "y": 4
+      }
+    },
+    {
+      "previous": [3636],
+      "next": [3652],
+      "name": "Bases de Datos Aplicada",
+      "cod": "3641",
+      "pos": {
+        "x": 6,
+        "y": 4
+      }
+    },
+    {
+      "previous": [3637, 3626],
+      "next": [3647, 3648, 3675],
+      "name": "Principios de Diseño de Sistemas",
+      "cod": "3642",
+      "pos": {
+        "x": 7,
+        "y": 4
+      }
+    },
+    {
+      "previous": [3634, 3638],
+      "next": [3650],
+      "name": "Redes de Computadoras",
+      "cod": "3643",
+      "pos": {
+        "x": 2,
+        "y": 4
+      }
+    },
+    {
+      "previous": [3632],
+      "next": [3659],
+      "name": "Gestión de las Organizaciones",
+      "cod": "3644",
+      "pos": {
+        "x": 9,
+        "y": 4
+      }
+    },
+    {
+      "previous": [3627],
+      "next": [3651, 3654],
+      "name": "Álgebra y Geometría Analítica II",
+      "cod": "3645",
+      "pos": {
+        "x": 3,
+        "y": 5
+      }
+    },
+    {
+      "previous": [3640, 3633],
+      "next": [3657, 3658, 3652],
+      "name": "Paradigmas de Programación",
+      "cod": "3646",
+      "pos": {
+        "x": 5,
+        "y": 5
+      }
+    },
+    {
+      "previous": [3642],
+      "next": [3659, 3667],
+      "name": "Requisitos Avanzados",
+      "cod": "3647",
+      "pos": {
+        "x": 8,
+        "y": 5
+      }
+    },
+    {
+      "previous": [3642, 3636],
+      "next": [3653],
+      "name": "Diseño de Software",
+      "cod": "3648",
+      "pos": {
+        "x": 7,
+        "y": 5
+      }
+    },
+    {
+      "previous": [3638],
+      "next": [3654, 3666],
+      "cod": "3649",
+      "name": "Sistemas Operativos",
+      "pos": {
+        "x": 1,
+        "y": 5
+      }
+    },
+    {
+      "previous": [3643, 3635],
+      "next": [3655, 3661],
+      "name": "Seguridad de la Información",
+      "cod": "3650",
+      "pos": {
+        "x": 2,
+        "y": 5
+      }
+    },
+    {
+      "previous": [3645, 3639, 3621],
+      "next": [3656, 3662, 3664],
+      "name": "Probabilidad y Estadística",
+      "cod": "3651",
+      "pos": {
+        "x": 4,
+        "y": 6
+      }
+    },
+    {
+      "previous": [3641, 3646],
+      "next": [3665, 3666],
+      "name": "Programación Avanzada",
+      "cod": "3652",
+      "pos": {
+        "x": 5,
+        "y": 6
+      }
+    },
+    {
+      "previous": [3648],
+      "next": [3659],
+      "name": "Arquitecturas de Sistemas Software",
+      "cod": "3653",
+      "pos": {
+        "x": 7,
+        "y": 6
+      }
+    },
+    {
+      "previous": [3649, 3645, 3640],
+      "next": [3658, 3660],
+      "name": "Virtualización de Hardware",
+      "cod": "3654",
+      "pos": {
+        "x": 3,
+        "y": 6
+      }
+    },
+    {
+      "previous": [3650],
+      "next": [],
+      "name": "Auditoría y Legislación",
+      "cod": "3655",
+      "pos": {
+        "x": 2,
+        "y": 6
+      }
+    },
+    {
+      "previous": [3651, 3641],
+      "next": [],
+      "name": "Estadística Aplicada",
+      "cod": "3656",
+      "pos": {
+        "x": 6,
+        "y": 7
+      }
+    },
+    {
+      "previous": [3646],
+      "next": [3663],
+      "name": "Autómatas y Gramática",
+      "cod": "3657",
+      "pos": {
+        "x": 7,
+        "y": 7
+      }
+    },
+    {
+      "previous": [3654, 3646],
+      "next": [],
+      "name": "Programación Concurrente",
+      "cod": "3658",
+      "pos": {
+        "x": 5,
+        "y": 7
+      }
+    },
+    {
+      "previous": [3653, 3647, 3644],
+      "next": [],
+      "name": "Gestión Aplicada al Desarrollo de Software I",
+      "cod": "3659",
+      "pos": {
+        "x": 9,
+        "y": 7
+      }
+    },
+    {
+      "previous": [3654],
+      "next": [],
+      "name": "Sistemas Operativos Avanzados",
+      "cod": "3660",
+      "pos": {
+        "x": 3,
+        "y": 7
+      }
+    },
+    {
+      "previous": [3651, 3650, 3644],
+      "next": [3669, 3671],
+      "name": "Gestión de Proyectos",
+      "cod": "3661",
+      "pos": null
+    },
+    {
+      "previous": [3651],
+      "next": [],
+      "name": "Matemática Aplicada",
+      "cod": "3662",
+      "pos": {
+        "x": 4,
+        "y": 8
+      }
+    },
+    {
+      "previous": [3657],
+      "next": [],
+      "name": "Lenguajes y Compiladores",
+      "cod": "3663",
+      "pos": {
+        "x": 7,
+        "y": 8
+      }
+    },
+    {
+      "previous": [3651, 3646],
+      "next": [3668, 3670],
+      "name": "Inteligencia Artificial",
+      "cod": "3664",
+      "pos": null
+    },
+    {
+      "previous": [3659, 3652],
+      "next": [],
+      "name": "Gestión Aplicada al Desarrollo de Software II",
+      "cod": "3665",
+      "pos": null
+    },
+    {
+      "previous": [3655, 3652, 3649],
+      "next": [3673],
+      "name": "Seguridad Aplicada y Forensia",
+      "cod": "3666",
+      "pos": null
+    },
+    {
+      "previous": [3647],
+      "next": [3671],
+      "name": "Gestión de la Calidad en Procesos de Sistemas",
+      "cod": "3667",
+      "pos": {
+        "x": 8,
+        "y": 8
+      }
+    },
+    {
+      "previous": [3664, 3656],
+      "next": [],
+      "name": "Inteligencia Artificial Aplicada",
+      "cod": "3668",
+      "pos": null
+    },
+    {
+      "previous": [3661],
+      "next": [],
+      "name": "Innovación y Emprendedorismo",
+      "cod": "3669",
+      "pos": null
+    },
+    {
+      "previous": [3664, 3656],
+      "next": [],
+      "name": "Ciencia de Datos",
+      "cod": "3670",
+      "pos": null
+    },
+    {
+      "previous": [3667, 3661, 3660, 3659, 3656],
+      "next": [],
+      "name": "Proyecto Final de Carrera",
+      "cod": "3671",
+      "pos": null
+    },
+    {
+      "previous": [3658, 3661, 3663],
+      "next": [],
+      "name": "Electiva I",
+      "cod": "3672",
+      "pos": null
+    },
+    {
+      "previous": [3662, 3666],
+      "next": [],
+      "name": "Electiva II",
+      "cod": "3673",
+      "pos": null
+    },
+    {
+      "previous": [3664, 3665],
+      "next": [],
+      "name": "Electiva III",
+      "cod": "3674",
+      "pos": null
+    },
+    {
+      "previous": [3642],
+      "next": [],
+      "name": "Práctica Profesional Supervisada",
+      "cod": "3675",
+      "pos": {
+        "x": 9,
+        "y": 5
+      }
+    },
+    {
+      "previous": [3626],
+      "next": [],
+      "name": "Responsabilidad Social Universitaria",
+      "cod": "3676",
+      "pos": {
+        "x": 8,
+        "y": 3
+      }
+    },
+    {
+      "previous": [],
+      "next": [],
+      "name": "Lenguaje Orientado a Negocios",
+      "cod": "3677",
+      "pos": null
+    },
+    {
+      "previous": [],
+      "next": [],
+      "name": "Tecnologías en Seguridad",
+      "cod": "3678",
+      "pos": null
+    },
+    {
+      "previous": [],
+      "next": [],
+      "name": "Visión Artificial",
+      "cod": "3679",
+      "pos": null
+    },
+    {
+      "previous": [3630, 3621, 3623, 3624, 3625, 3626, 3632, 3635, 3636, 3638],
+      "next": [],
+      "name": "Taller de Integración",
+      "cod": "3680",
+      "pos": null
+    }
+  ],
+  "bags": [
+    {
+      "main_mat": "3650",
+      "mats_in_bag": ["3635"]
+    },
+    {
+      "main_mat": "3651",
+      "mats_in_bag": ["3621"]
+    }
+  ],
+  "curved_edges": [
+    "e3649-3654",
+    "e3654-3658",
+    "e3633-3646",
+    "e3641-3652",
+    "e3651-3656",
+    "e3640-3654",
+    "e3646-3657",
+    "e3636-3648",
+    "e3626-3642",
+    "e3653-3659",
+    "e3647-3659",
+    "3644-3659"
+  ]
+}
