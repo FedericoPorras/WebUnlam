@@ -9,6 +9,7 @@ function CardContent(props) {
         style={{
           backgroundColor: props["primary-color"],
           borderColor: props["secondary-color"],
+          ...props.stylesGral,
         }}
       >
         <img className="card-img-top" src={props["src"]} alt="Card image cap" />
@@ -22,6 +23,7 @@ function CardContent(props) {
             style={{
               backgroundColor: props["primary-color"],
               borderColor: props["secondary-color"],
+              ...props.stylesButton,
             }}
           >
             {props["link-text"]}

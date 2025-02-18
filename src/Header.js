@@ -9,29 +9,30 @@ function Header(props) {
         <nav class="navbar navbar-expand-lg">
           <a class="navbar-brand" href="/">
             <img src={iconoUnlam} id="header-icon"></img>
-            UNLaM - Ingenieria en Informática
+            UNLaM - Ingeniera en Informática
           </a>
 
           <div class="collapse navbar-collapse" id="navbarTogglerDemo03">
             <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
-              <li class="nav-item">
+              {/* <li class="nav-item">
                 <a class="nav-link link-main-embed" href="/intraconsulta">
                   Intraconsulta
                 </a>
               </li>
-              <li class="nav-item">
-                <a
-                  class="nav-link link-main-embed"
-                  href="/calendario-academico"
-                >
-                  Calendario
-                </a>
-              </li>
+              */}
               {/* <li class="nav-item">
                 <a class="nav-link link-main-embed" href="/miel">
                   MIeL
                 </a>
               </li> */}
+              <li class="nav-item">
+                <a
+                  class="nav-link link-main-embed"
+                  href="/calendario-academico"
+                >
+                  Calendario Académico
+                </a>
+              </li>
               <li class="nav-item active">
                 <a class="nav-link" href="/mapa-correlatividades">
                   Mapa de Correlatividades
