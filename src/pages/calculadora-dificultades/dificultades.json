@@ -1,0 +1,127 @@
+{
+  "last-update": "2025-18-02",
+  "data": [
+    { "cod": "3621", "dif": "3,05", "name": "Matemática Discreta" },
+    { "cod": "3622", "dif": "4,02", "name": "Análisis Matemático I" },
+    { "cod": "3623", "dif": "2,52", "name": "Programación Inicial" },
+    {
+      "cod": "3624",
+      "dif": "1,27",
+      "name": "Introducción a los Sistemas de Información"
+    },
+    { "cod": "3625", "dif": "1,07", "name": "Sistemas de Numeración" },
+    {
+      "cod": "3626",
+      "dif": "1,33",
+      "name": "Principios de Calidad de Software"
+    },
+    { "cod": "3627", "dif": "2,84", "name": "Álgebra y Geometría Analítica I" },
+    { "cod": "3628", "dif": "4,24", "name": "Física I" },
+    {
+      "cod": "3629",
+      "dif": "2,85",
+      "name": "Programación Estructurada Básica"
+    },
+    {
+      "cod": "3630",
+      "dif": "1,84",
+      "name": "Introducción a la Gestión de Requisitos"
+    },
+    {
+      "cod": "3631",
+      "dif": "3,33",
+      "name": "Fundamentos de Sistemas Embebidos"
+    },
+    {
+      "cod": "3632",
+      "dif": "1,80",
+      "name": "Introducción a los Proyectos Informáticos"
+    },
+    { "cod": "3633", "dif": "2,82", "name": "Análisis Matemático II" },
+    { "cod": "3634", "dif": "4,50", "name": "Física II" },
+    { "cod": "3635", "dif": "4,58", "name": "Tópicos de Programación" },
+    { "cod": "3636", "dif": "3,60", "name": "Bases de Datos" },
+    { "cod": "3637", "dif": "4,31", "name": "Análisis de Sistemas" },
+    { "cod": "3638", "dif": "3,00", "name": "Arquitectura de Computadoras" },
+    {
+      "cod": "3676",
+      "dif": "1,33",
+      "name": "Responsabilidad Social Universitaria"
+    },
+    { "cod": "3639", "dif": "1,79", "name": "Análisis Matemático III" },
+    {
+      "cod": "3640",
+      "dif": "3,67",
+      "name": "Algoritmos y Estructuras de Datos"
+    },
+    { "cod": "3641", "dif": "3,00", "name": "Bases de Datos Aplicadas" },
+    {
+      "cod": "3642",
+      "dif": "1,00",
+      "name": "Principios de Diseño de Sistemas"
+    },
+    { "cod": "3643", "dif": "4,00", "name": "Redes de Computadoras" },
+    { "cod": "3644", "dif": "4,31", "name": "Gestión de las Organizaciones" },
+    { "cod": "3680", "dif": "#DIV/0!", "name": "Taller de Integración" },
+    {
+      "cod": "3645",
+      "dif": "3,69",
+      "name": "Álgebra y Geometría Analítica II"
+    },
+    { "cod": "3646", "dif": "2,50", "name": "Paradigmas de Programación" },
+    { "cod": "3647", "dif": "#DIV/0!", "name": "Requisitos Avanzados" },
+    { "cod": "3648", "dif": "#DIV/0!", "name": "Diseño de Software" },
+    { "cod": "3649", "dif": "4,50", "name": "Sistemas Operativos" },
+    { "cod": "3650", "dif": "#DIV/0!", "name": "Seguridad de la Información" },
+    {
+      "cod": "3675",
+      "dif": "#DIV/0!",
+      "name": "Práctica Profesional Supervisada"
+    },
+    { "cod": "3651", "dif": "4,10", "name": "Probabilidad y Estadística" },
+    { "cod": "3652", "dif": "#DIV/0!", "name": "Programación Avanzada" },
+    {
+      "cod": "3653",
+      "dif": "#DIV/0!",
+      "name": "Arquitectura de Sistemas Software"
+    },
+    { "cod": "3654", "dif": "#DIV/0!", "name": "Virtualización de Hardware" },
+    { "cod": "3655", "dif": "#DIV/0!", "name": "Auditoria y Legislación" },
+    { "cod": "3656", "dif": "1,00", "name": "Estadística Aplicada" },
+    { "cod": "3657", "dif": "1,67", "name": "Autómatas y Gramáticas" },
+    { "cod": "3658", "dif": "#DIV/0!", "name": "Programación Concurrente" },
+    { "cod": "3660", "dif": "1,00", "name": "Sistemas Operativos Avanzados" },
+    { "cod": "3661", "dif": "#DIV/0!", "name": "Gestión de Proyectos" },
+    { "cod": "3662", "dif": "2,00", "name": "Matemática Aplicada" },
+    { "cod": "3663", "dif": "#DIV/0!", "name": "Lenguajes y Compiladores" },
+    { "cod": "3664", "dif": "4,00", "name": "Inteligencia Artificial" },
+    {
+      "cod": "3665",
+      "dif": "#DIV/0!",
+      "name": "Gestión Aplicada al Desarrollo de Software II"
+    },
+    { "cod": "3666", "dif": "1,00", "name": "Seguridad Aplicada y Forensia" },
+    {
+      "cod": "3667",
+      "dif": "#DIV/0!",
+      "name": "Gestión de la Calidad en Procesos de Sistemas"
+    },
+    {
+      "cod": "3668",
+      "dif": "#DIV/0!",
+      "name": "Inteligencia Artificial Aplicada"
+    },
+    { "cod": "3669", "dif": "#DIV/0!", "name": "Innovacion y Emprendedorismo" },
+    { "cod": "3670", "dif": "#DIV/0!", "name": "Ciencia de Datos" },
+    { "cod": "3671", "dif": "#DIV/0!", "name": "Proyecto Final de Carrera" },
+    { "cod": "3672", "dif": "#DIV/0!", "name": "Electiva I" },
+    { "cod": "3673", "dif": "#DIV/0!", "name": "Electiva II" },
+    { "cod": "3674", "dif": "#DIV/0!", "name": "Electiva III" },
+    { "cod": "901", "dif": "1,32", "name": "Inglés Transversal Nivel I" },
+    { "cod": "902", "dif": "1,61", "name": "Inglés Transversal Nivel II" },
+    { "cod": "903", "dif": "2,00", "name": "Inglés Transversal Nivel III" },
+    { "cod": "904", "dif": "1,67", "name": "Inglés Transversal Nivel IV" },
+    { "cod": "905", "dif": "1,18", "name": "Computación Transversal Nivel I" },
+    { "cod": "906", "dif": "1,22", "name": "Computación Transversal Nivel II" }
+  ]
+}

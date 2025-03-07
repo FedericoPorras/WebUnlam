@@ -42,12 +42,6 @@ function App() {
 
   return (
     <div className="App">
-      <head>
-        <meta charset="UTF-8" />
-        <meta name="viewport" content="width=device-width" />
-        <title>Ing. Informática UNLaM</title>
-        <link rel="icon" href={iconoUnlam} type="image/icon type"></link>
-      </head>
       <Routes>
         <Route path="/" element={addHeader(<LinksPage />)} />
         <Route path="*" element={addHeader(<LinksPage />)} />

@@ -78,7 +78,9 @@ function LinksPage() {
         text="Vas a poder calcular que tan dificiles pueden ser distintas combinaciones de materias para el cuatrimestre"
         primary-color={"rgba(255, 255, 255, 0.7)"}
         secondary-color={"rgba(0, 0, 0, 0.7)"}
-        link-text="[Coming Soon]"
+        link-text="Ir a la calculadora"
+        stay={true}
+        link-href="./calculadora-dificultades"
         stylesGral={{ color: "black" }}
         stylesButton={{ color: "black" }}
       />

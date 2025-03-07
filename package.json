@@ -5,12 +5,14 @@
   "dependencies": {
     "@xyflow/react": "^12.4.3",
     "bootstrap": "^5.3.3",
+    "bootstrap-select": "^1.13.18",
     "cra-template": "1.2.0",
     "react": "^19.0.0",
     "react-bootstrap": "^2.10.9",
     "react-dom": "^19.0.0",
     "react-router-dom": "^7.1.5",
     "react-scripts": "5.0.1",
+    "react-select": "^5.10.1",
     "reactflow": "^11.11.4",
     "web-vitals": "^4.2.4"
   },

@@ -4,52 +4,55 @@ import iconoUnlam from "./imgs/unlam_icono_sinbg.ico";
 
 function Header(props) {
   return (
-    <div class="headerWrap" style={props.styled == true ? props.styles : {}}>
+    <div
+      className="headerWrap"
+      style={props.styled == true ? props.styles : {}}
+    >
       <header>
-        <nav class="navbar navbar-expand-lg">
-          <a class="navbar-brand" href="/">
+        <nav className="navbar navbar-expand-lg">
+          <a className="navbar-brand" href="/">
             <img src={iconoUnlam} id="header-icon"></img>
             UNLaM - Ingeniera en Informática
           </a>
 
-          <div class="collapse navbar-collapse" id="navbarTogglerDemo03">
-            <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
-              {/* <li class="nav-item">
-                <a class="nav-link link-main-embed" href="/intraconsulta">
+          <div className="collapse navbar-collapse" id="navbarTogglerDemo03">
+            <ul className="navbar-nav mr-auto mt-2 mt-lg-0">
+              {/* <li className="nav-item">
+                <a className="nav-link link-main-embed" href="/intraconsulta">
                   Intraconsulta
                 </a>
               </li>
               */}
-              {/* <li class="nav-item">
-                <a class="nav-link link-main-embed" href="/miel">
+              {/* <li className="nav-item">
+                <a className="nav-link link-main-embed" href="/miel">
                   MIeL
                 </a>
               </li> */}
-              <li class="nav-item">
+              <li className="nav-item">
                 <a
-                  class="nav-link link-main-embed"
+                  className="nav-link link-main-embed"
                   href="/calendario-academico"
                 >
                   Calendario Académico
                 </a>
               </li>
-              <li class="nav-item active">
-                <a class="nav-link" href="/mapa-correlatividades">
+              <li className="nav-item active">
+                <a className="nav-link" href="/mapa-correlatividades">
                   Mapa de Correlatividades
                 </a>
               </li>
-              <li class="nav-item">
-                <a class="nav-link" href="/calculadora-dificultades">
+              <li className="nav-item">
+                <a className="nav-link" href="/calculadora-dificultades">
                   Calculadora de Dificultades
                 </a>
               </li>
-              <li class="nav-item">
-                <a class="nav-link" href="/seguimiento-carrera">
+              <li className="nav-item">
+                <a className="nav-link" href="/seguimiento-carrera">
                   Seguimiento de Carrera
                 </a>
               </li>
-              <li class="nav-item">
-                <a class="nav-link disabled" href="/inscripcion-equipo">
+              <li className="nav-item">
+                <a className="nav-link disabled" href="/inscripcion-equipo">
                   Inscripción en Equipos (Coming soon)
                 </a>
               </li>
@@ -57,10 +60,10 @@ function Header(props) {
           </div>
           {props.opcionVolver ? (
             <div style={{ "margin-left": "auto", "margin-right": "2rem" }}>
-              <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
-                <li class="nav-item">
+              <ul className="navbar-nav mr-auto mt-2 mt-lg-0">
+                <li className="nav-item">
                   <a
-                    class="nav-link"
+                    className="nav-link"
                     href={props.src}
                     style={{
                       padding: "0.25rem 0.5rem",
@@ -73,9 +76,9 @@ function Header(props) {
                     Ir al sitio web
                   </a>
                 </li>
-                <li class="nav-item">
+                <li className="nav-item">
                   <a
-                    class="nav-link"
+                    className="nav-link"
                     href="/"
                     style={{
                       padding: "0.25rem 0.5rem",

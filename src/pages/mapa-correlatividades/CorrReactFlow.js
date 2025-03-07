@@ -73,7 +73,7 @@ dataBags.forEach((bag) => {
     };
     initialEdges.push(newEdge);
 
-    console.log(initialEdges);
+    //console.log(initialEdges);
     //console.log(initialNodes.find((elem) => elem.id > NUM_START_BAGS));
   });
 

@@ -1,0 +1,51 @@
+#mainSection {
+  text-align: center;
+  align-items: center;
+}
+
+.secContainer {
+  padding: 3vw;
+  background-color: rgb(0, 5, 82);
+}
+
+/* #mainSection p {
+  color: white;
+  background-color: rgba(0, 0, 0, 0.452);
+  padding: 3px;
+  display: inline-block;
+} */
+
+h1 {
+  margin-bottom: 1rem;
+}
+
+.difficulty {
+  height: 100%;
+  margin: 0 !important;
+}
+
+.modSelect {
+  width: 3rem;
+}
+
+th {
+  text-align: center;
+}
+
+#someExpl {
+  color: white;
+  font-weight: bold;
+  margin: 20px;
+  background-color: rgba(10, 83, 0, 0.61);
+  display: inline-block;
+  padding: 15px;
+  border-radius: 20px;
+}
+
+table {
+  padding: 10px;
+}
+
+td p {
+  margin: 0;
+}
