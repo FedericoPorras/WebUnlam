@@ -9,6 +9,7 @@ import fotoGrafo from "../../imgs/grafo.png";
 import fotoCalc from "../../imgs/calc.png";
 import fotoExcel from "../../imgs/excel.jpg";
 import segExcel from "../../imgs/Seguimiento-de-carrera-Ing._Informatica-2023_corregido.xlsx";
+import fotoWhatsapp from "../../imgs/whatsapp.png";
 
 function LinksPage() {
   return (
@@ -92,6 +93,17 @@ function LinksPage() {
         secondary-color={"rgba(0, 214, 18, 0.7)"}
         link-text="Descargar"
         link-href={segExcel}
+      />
+      <CardContent
+        title="Soporte"
+        src={fotoWhatsapp}
+        text="Ante cualquier duda podes preguntar a este número de Whatsapp: 1133495346"
+        primary-color={"rgba(11, 129, 0, 0.7)"}
+        secondary-color={"rgba(0, 214, 18, 0.7)"}
+        link-text="Contacto"
+        link-href={
+          "https://api.whatsapp.com/send/?phone=5491133495346&text&type=phone_number&app_absent=0"
+        }
       />
     </main>
   );
